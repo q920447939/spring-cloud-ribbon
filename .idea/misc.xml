@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/thymeleaf02" />
+    <file type="web" url="file://D:/git_fork/java-design-patterns/naked-objects/webapp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client01/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client02/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-service02/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/thymeleaf02/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/git_fork/java-design-patterns/abstract-document/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/abstract-factory/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/adapter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/aggregator-microservices/aggregator-service/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/aggregator-microservices/information-microservice/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/aggregator-microservices/inventory-microservice/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/aggregator-microservices/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/api-gateway/api-gateway-service/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/api-gateway/image-microservice/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/api-gateway/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/api-gateway/price-microservice/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/async-method-invocation/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/balking/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/bridge/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/builder/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/business-delegate/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/caching/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/callback/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/chain/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/command/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/composite/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/converter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/cqrs/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/dao/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/data-bus/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/data-mapper/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/data-transfer-object/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/decorator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/delegation/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/dependency-injection/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/dirty-flag/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/double-checked-locking/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/double-dispatch/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/eip-aggregator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/eip-message-channel/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/eip-publish-subscribe/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/eip-splitter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/eip-wire-tap/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/event-aggregator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/event-asynchronous/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/event-driven-architecture/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/event-queue/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/event-sourcing/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/execute-around/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/extension-objects/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/facade/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/factory-kit/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/factory-method/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/feature-toggle/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/fluentinterface/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/flux/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/flyweight/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/front-controller/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/guarded-suspension/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/half-sync-half-async/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/hexagonal/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/intercepting-filter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/interpreter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/iterator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/layers/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/lazy-loading/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/marker/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/mediator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/memento/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/model-view-controller/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/model-view-presenter/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/module/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/monad/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/monostate/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/multiton/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/mute-idiom/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/mutex/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/naked-objects/dom/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/naked-objects/fixture/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/naked-objects/integtests/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/naked-objects/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/naked-objects/webapp/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/null-object/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/object-mother/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/object-pool/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/observer/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/page-object/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/partial-response/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/poison-pill/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/private-class-data/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/producer-consumer/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/promise/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/property/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/prototype/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/proxy/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/queue-load-leveling/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/reactor/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/reader-writer-lock/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/repository/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/resource-acquisition-is-initialization/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/retry/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/semaphore/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/servant/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/serverless/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/service-layer/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/service-locator/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/singleton/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/specification/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/state/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/step-builder/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/strategy/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/template-method/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/thread-pool/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/throttling/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/tls/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/tolerant-reader/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/trampoline/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/twin/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/unit-of-work/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/value-object/pom.xml" />
+        <option value="D:/git_fork/java-design-patterns/visitor/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client01/eureka-client01.iml" filepath="$PROJECT_DIR$/eureka-client01/eureka-client01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client02/eureka-client02.iml" filepath="$PROJECT_DIR$/eureka-client02/eureka-client02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon01/eureka-ribbon01.iml" filepath="$PROJECT_DIR$/eureka-ribbon01/eureka-ribbon01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service02/eureka-service02.iml" filepath="$PROJECT_DIR$/eureka-service02/eureka-service02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf02/thymeleaf02.iml" filepath="$PROJECT_DIR$/thymeleaf02/thymeleaf02.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c04fc04-7a8c-47de-b943-06d86c9dfd8e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-service/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client01/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client02/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-ribbon01/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-service02/target/" />
+    <ignored path="$PROJECT_DIR$/actuator01/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/specification/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/flux/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/eip-wire-tap/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/flyweight/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/property/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/intercepting-filter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/tolerant-reader/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/iterator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/aggregator-microservices/information-microservice/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/unit-of-work/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/api-gateway/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/trampoline/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/prototype/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/webapp/target-ide/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/fixture/target-ide/" />
+    <ignored path="D:/git_fork/java-design-patterns/eip-publish-subscribe/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/page-object/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/reader-writer-lock/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/fluentinterface/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/eip-message-channel/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/balking/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/dao/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/model-view-presenter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/state/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/abstract-document/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/hexagonal/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/api-gateway/price-microservice/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/object-pool/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/resource-acquisition-is-initialization/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/service-layer/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/memento/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/factory-kit/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/command/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/cqrs/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/singleton/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/value-object/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/facade/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/dirty-flag/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/template-method/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/data-mapper/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/target/classes/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/target/test-classes/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/target-ide/" />
+    <ignored path="D:/git_fork/java-design-patterns/factory-method/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/event-aggregator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/layers/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/event-driven-architecture/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/integtests/target-ide/" />
+    <ignored path="D:/git_fork/java-design-patterns/queue-load-leveling/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/dependency-injection/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/partial-response/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/naked-objects/dom/target-ide/" />
+    <ignored path="D:/git_fork/java-design-patterns/mute-idiom/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/delegation/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/builder/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/producer-consumer/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/aggregator-microservices/inventory-microservice/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/visitor/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/abstract-factory/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/aggregator-microservices/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/object-mother/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/thread-pool/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/event-queue/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/model-view-controller/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/observer/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/twin/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/event-asynchronous/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/execute-around/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/double-dispatch/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/eip-splitter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/private-class-data/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/guarded-suspension/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/feature-toggle/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/extension-objects/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/repository/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/bridge/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/strategy/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/front-controller/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/promise/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/servant/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/step-builder/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/mutex/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/aggregator-microservices/aggregator-service/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/tls/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/monad/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/half-sync-half-async/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/async-method-invocation/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/chain/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/retry/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/converter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/decorator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/data-bus/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/reactor/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/eip-aggregator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/service-layer/bin/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/semaphore/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/throttling/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/caching/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/data-transfer-object/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/null-object/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/business-delegate/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/poison-pill/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/monostate/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/api-gateway/api-gateway-service/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/marker/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/adapter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/serverless/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/event-sourcing/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/service-locator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/interpreter/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/callback/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/double-checked-locking/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/multiton/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/proxy/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/composite/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/module/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/mediator/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/lazy-loading/target/" />
+    <ignored path="D:/git_fork/java-design-patterns/api-gateway/image-microservice/target/" />
+    <ignored path="$PROJECT_DIR$/thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/thymeleaf02/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis-genarate01/target/" />
+    <ignored path="E:/my-project/mybatisplus-spring-boot/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-client01/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaClient01Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-client01/src/main/java/com/example/eurekaclient01/EurekaClient01Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaClient02Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/EurekaClient02Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="RibbonController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/RibbonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaRibbon01Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/EurekaRibbon01Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dea</find>
+      <find>deafal</find>
+      <find>disco</find>
+      <find>DisCover</find>
+      <find>defaultZone</find>
+      <find>value</find>
+      <find>actuatorPrefix</find>
+      <find>healthCheckUrl</find>
+      <find>ConfUtils</find>
+      <find>getDbType</find>
+      <find>tbname</find>
+      <find>main</find>
+      <find>thy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\code\eureka-server</dir>
+      <dir>D:\code\eureka-server\mybatis-plus</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-client01/src/main/java/com/example/eurekaclient01/EurekaClient01Application.java" />
+        <option value="$PROJECT_DIR$/eureka-client01/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/EurekaClient02Application.java" />
+        <option value="$PROJECT_DIR$/eureka-client01/src/main/java/com/example/eurekaclient01/HelloController.java" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/EurekaRibbon01Application.java" />
+        <option value="$PROJECT_DIR$/eureka-service02/src/main/java/com/example/eurekaservice02/EurekaService02Application.java" />
+        <option value="$PROJECT_DIR$/eureka-service02/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-client01/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-client02/src/test/java/com/example/eurekaclient02/EurekaClient02ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/eureka-service/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-service/src/test/java/com/withmes/eurekaservice/eurekaservice/EurekaServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/eureka-service/src/test/java/com/withmes/eurekaservice/eurekaservice/LambdaTest1.java" />
+        <option value="$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/RibbonController.java" />
+        <option value="$PROJECT_DIR$/eureka-service/src/main/java/com/withmes/eurekaservice/eurekaservice/EurekaServiceApplication.java" />
+        <option value="$PROJECT_DIR$/actuator01/pom.xml" />
+        <option value="$PROJECT_DIR$/actuator01/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-client02/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/TestInferFace.java" />
+        <option value="$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/HelloController.java" />
+        <option value="$PROJECT_DIR$/javaSE-Demo/src/java/thread01/Thread01.java" />
+        <option value="$PROJECT_DIR$/javaSE-Demo/src/java/thread/Thread01.java" />
+        <option value="$PROJECT_DIR$/javaSE-Demo/src/thread/threadLocalDemo01.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/baomidou/mybatisplus/generator/AutoGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/AutoGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/mybatisplus/generator/config/converts/MySqlTypeConvert.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/mybatisplus/generator/config/builder/ConfigBuilder.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/client/Generator.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/builder/ConfigBuilder.java" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/mybatis-genarate01/src/main/java/MpGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/test/java/com/baomidou/mybatisplus/test/generator/MysqlGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/main/java/com/baomidou/mybatisplus/generator/config/querys/AbstractDbQuery.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.5.3\conf\settings_bak.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jrebel" />
+        <option value="m2e" />
+        <option value="self-host" />
+        <option value="intellij" />
+        <option value="isis-validate" />
+      </list>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-3" />
+    <option name="y" value="104" />
+    <option name="width" value="1936" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/my-project/mybatisplus-spring-boot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15176849" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.eurekaclient02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\eureka-server\mybatis-genarate01\src\main" />
+      <recent name="D:\code\eureka-server\mybatis-genarate01\src\main\java\com\client" />
+      <recent name="D:\code\eureka-server\mybatis-genarate01\src\main\java\com\baomidou\mybatisplus\mybatisplus\generator\config" />
+      <recent name="D:\code\eureka-server\eureka-client02\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaRibbon01Application">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iluwatar.abstractdocument.App" />
+      <module name="abstract-document" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iluwatar.abstractdocument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.Generator" />
+      <module name="mybatis-genarate01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MpGenerator" />
+      <module name="mybatis-genarate01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PostgreSQLGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baomidou.mybatisplus.test.generator.PostgreSQLGenerator" />
+      <module name="eureka-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baomidou.mybatisplus.test.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="threadLocalDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.threadLocalDemo01" />
+      <module name="javaSE-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="abstract-factory" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="Actuator01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.actuator01.Actuator01Application" />
+    </configuration>
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.api.gateway.App" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aggregator-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.aggregator.microservices.App" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisplus-spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baomidou.springboot.Application" />
+    </configuration>
+    <configuration name="EurekaClient01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient01.EurekaClient01Application" />
+    </configuration>
+    <configuration name="EurekaClient02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient02.EurekaClient02Application" />
+    </configuration>
+    <configuration name="EurekaRibbon01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-ribbon01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaribbon01.EurekaRibbon01Application" />
+    </configuration>
+    <configuration name="EurekaService02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-service02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaservice02.EurekaService02Application" />
+    </configuration>
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withmes.eurekaservice.eurekaservice.EurekaServiceApplication" />
+    </configuration>
+    <configuration name="ImageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="image-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.image.microservice.ImageApplication" />
+    </configuration>
+    <configuration name="InformationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="information-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.information.microservice.InformationApplication" />
+    </configuration>
+    <configuration name="InventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="inventory-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.inventory.microservice.InventoryApplication" />
+    </configuration>
+    <configuration name="MybatisGenarate01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-genarate01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatisgenarate01.MybatisGenarate01Application" />
+    </configuration>
+    <configuration name="PriceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="price-microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iluwatar.price.microservice.PriceApplication" />
+    </configuration>
+    <configuration name="Thymeleaf02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleaf02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.thymeleaf02.Thymeleaf02Application" />
+    </configuration>
+    <configuration name="ThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withmes.thymeleaf.ThymeleafApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServiceApplication" />
+      <item itemvalue="Spring Boot.EurekaClient01Application" />
+      <item itemvalue="Spring Boot.EurekaClient02Application" />
+      <item itemvalue="Spring Boot.Actuator01Application" />
+      <item itemvalue="Spring Boot.EurekaRibbon01Application" />
+      <item itemvalue="Spring Boot.EurekaService02Application" />
+      <item itemvalue="Spring Boot.InventoryApplication" />
+      <item itemvalue="Spring Boot.PriceApplication" />
+      <item itemvalue="Spring Boot.ImageApplication" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.App (1)" />
+      <item itemvalue="Spring Boot.InformationApplication" />
+      <item itemvalue="Spring Boot.ThymeleafApplication" />
+      <item itemvalue="Spring Boot.Thymeleaf02Application" />
+      <item itemvalue="Spring Boot.MybatisGenarate01Application" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Application.threadLocalDemo01" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="Application.MpGenerator" />
+      <item itemvalue="Application.PostgreSQLGenerator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PostgreSQLGenerator" />
+        <item itemvalue="Application.MpGenerator" />
+        <item itemvalue="Application.Generator" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.threadLocalDemo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c04fc04-7a8c-47de-b943-06d86c9dfd8e" name="Default" comment="" />
+      <created>1525782342603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525782342603</updated>
+      <workItem from="1525782345873" duration="5131000" />
+      <workItem from="1525830865250" duration="3338000" />
+      <workItem from="1525915458880" duration="12292000" />
+      <workItem from="1526001274659" duration="6189000" />
+      <workItem from="1526030015251" duration="353000" />
+      <workItem from="1526030483844" duration="695000" />
+      <workItem from="1526102987264" duration="2019000" />
+      <workItem from="1526260564466" duration="1212000" />
+      <workItem from="1526346580040" duration="598000" />
+      <workItem from="1526371458955" duration="1262000" />
+      <workItem from="1526433423124" duration="2263000" />
+      <workItem from="1526458952474" duration="598000" />
+      <workItem from="1526462073221" duration="598000" />
+      <workItem from="1526519278309" duration="4737000" />
+      <workItem from="1526605791756" duration="2252000" />
+      <workItem from="1526615479177" duration="164000" />
+      <workItem from="1526615681410" duration="3306000" />
+      <workItem from="1526626525216" duration="600000" />
+      <workItem from="1526627519721" duration="4246000" />
+      <workItem from="1526695818999" duration="3105000" />
+      <workItem from="1526866059682" duration="8731000" />
+      <workItem from="1526952109002" duration="598000" />
+      <workItem from="1526971525960" duration="1244000" />
+      <workItem from="1526973648023" duration="796000" />
+      <workItem from="1526980106821" duration="328000" />
+      <workItem from="1526980464620" duration="105000" />
+      <workItem from="1526980705781" duration="583000" />
+      <workItem from="1528963103576" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EurekaClient02ApplicationTests_contextLoads - 2018.05.10 at 16h 05m 47s.xml">
+      <configuration name="EurekaClient02ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaClient02ApplicationTests_contextLoads - 2018.05.10 at 16h 06m 17s.xml">
+      <configuration name="EurekaClient02ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaServiceApplicationTests_contextLoads - 2018.05.10 at 21h 11m 10s.xml">
+      <configuration name="EurekaServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68221000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="8" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995749" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32815966" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3401507" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3054371" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSE-Demo/src/java/thread/Thread01.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-commons/2.0.0.RC1/spring-cloud-commons-2.0.0.RC1.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/InheritableThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="119" column="65" lean-forward="true" selection-start-line="119" selection-start-column="65" selection-end-line="119" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaSE-Demo/src/thread/threadLocalDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/domain/HasModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/domain/Part.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/domain/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/AbstractDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/git_fork/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/temp/BOOT-INF/classes/com/baomidou/mybatisplus/generator/config/builder/ConfigBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thymeleaf/src/main/java/com/withmes/thymeleaf/ThymeleafApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/example/mybatisgenarate01/Generator.java" />
+    <entry file="file://$USER_HOME$/Desktop/temp/BOOT-INF/classes/com/client/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/DataSourceConfig$1.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/DataSourceConfig.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/builder/ConfigBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/baomidou/mybatisplus/generator/config/AutoGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/client/ConfUtils.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/com/client/Generator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/resources/application.yaml" />
+    <entry file="file://$PROJECT_DIR$/mybatis-genarate01/src/main/java/MpGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-core/src/main/java/com/baomidou/mybatisplus/MybatisConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/main/java/com/baomidou/mybatisplus/generator/AutoGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/main/resources/templates/controller.java.ftl" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/test/java/com/baomidou/mybatisplus/test/generator/MysqlGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/main/java/com/baomidou/mybatisplus/generator/config/querys/AbstractDbQuery.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/main/java/com/baomidou/mybatisplus/generator/config/IDbQuery.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-generate/src/test/java/com/baomidou/mybatisplus/test/generator/PostgreSQLGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus-core/src/main/java/com/baomidou/mybatisplus/spring/MybatisMapperRefresh.java" />
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/my-project/mybatisplus-spring-boot/src/main/java/com/baomidou/springboot/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service/src/main/java/com/withmes/eurekaservice/eurekaservice/EurekaServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service02/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-service02/src/main/java/com/example/eurekaservice02/EurekaService02Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client01/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client01/src/main/java/com/example/eurekaclient01/EurekaClient01Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client02/src/main/java/com/example/eurekaclient02/EurekaClient02Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/EurekaRibbon01Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon01/src/main/java/com/example/eurekaribbon01/RibbonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>naked-objects-webapp:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mybatisplus-spring-boot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
